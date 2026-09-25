@@ -54,4 +54,6 @@ Code in this repository is released under the [MIT License](LICENSE). Where a mo
 
 ---
 
-*Run by Vishnu Dileesh at [TinkerHub](https://tinkerhub.org), TinkerSpace Kochi. Questions, corrections, and pull requests welcome — this repo is itself a build-to-learn project.*
+*Run by [Vishnu Dileesh](https://www.vishnudileesh.com/) at [TinkerHub](https://tinkerhub.org), TinkerSpace Kochi. Questions, corrections, and pull requests welcome — this repo is itself a build-to-learn project.*
+
+[Website](https://www.vishnudileesh.com/) &middot; [X / Twitter](https://x.com/vi_c0de) &middot; [LinkedIn](https://www.linkedin.com/in/vishnu-dileesh/)
