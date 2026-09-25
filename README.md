@@ -6,7 +6,7 @@ Most of us are conditioned from a young age to accept the world as it is given t
 
 Steve Jobs once pointed out that the moment you realize everything around you was built by people no smarter than you, the world opens up. You can poke life, push on it, and watch something pop out the other side. You can mold it. As Richard Feynman put it, the best way to master anything is to pursue what fascinates you in the most irreverent, original, and undisciplined way possible.
 
-**Classrooms** is a weekly laboratory run by [TinkerHub](https://tinkerhub.org) at TinkerSpace, Kochi, built on that realization: agency, rapid execution, and raw proof of work over lectures and grades.
+**Classrooms** is a weekly laboratory run by Vishnu Dileesh with [TinkerHub](https://tinkerhub.org) at TinkerSpace, Kochi, built on that realization: agency, rapid execution, and raw proof of work over lectures and grades.
 
 This repo is the lab notebook. Every session we run gets turned into a self-contained module here — real code, real models, real running software — so anyone, whether they were in the room or not, can pick it up, run it, break it, and rebuild it their own way.
 
@@ -54,4 +54,4 @@ Code in this repository is released under the [MIT License](LICENSE). Where a mo
 
 ---
 
-*Run by [TinkerHub](https://tinkerhub.org) at TinkerSpace, Kochi. Questions, corrections, and pull requests welcome — this repo is itself a build-to-learn project.*
+*Run by Vishnu Dileesh at [TinkerHub](https://tinkerhub.org), TinkerSpace Kochi. Questions, corrections, and pull requests welcome — this repo is itself a build-to-learn project.*
