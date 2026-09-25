@@ -1,0 +1,15 @@
+CLAUDE.md
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+
+# Model weights (large binaries — keep configs/tokenizers, not weights)
+*.safetensors
+*.gguf

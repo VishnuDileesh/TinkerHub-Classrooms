@@ -1,0 +1,47 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>GemmaikuChat</title>
+  <link rel="stylesheet" href="static/css/style.css" />
+</head>
+<body>
+  <div class="app">
+    <aside class="sidebar">
+      <button id="new-chat-btn" class="new-chat-btn">+ New chat</button>
+      <div class="model-picker">
+        <label for="model-select">Model</label>
+        <select id="model-select"></select>
+        <p id="model-status" class="model-status"></p>
+      </div>
+      <div class="history">
+        <p class="history-label">History</p>
+        <ul id="history-list"></ul>
+      </div>
+      <p class="sidebar-footer">GemmaikuChat &middot; FastAPI + Ollama</p>
+    </aside>
+
+    <main class="chat">
+      <div id="messages" class="messages">
+        <div class="empty-state" id="empty-state">
+          <h1>GemmaikuChat</h1>
+          <p>Talk to whatever model you've pulled into Ollama. Try <code>gemmaiku</code> for a model that only answers in haiku.</p>
+        </div>
+      </div>
+
+      <form id="chat-form" class="composer">
+        <textarea
+          id="chat-input"
+          placeholder="Message GemmaikuChat..."
+          rows="1"
+          autofocus
+        ></textarea>
+        <button id="send-btn" type="submit" aria-label="Send">&uarr;</button>
+      </form>
+    </main>
+  </div>
+
+  <script src="static/js/app.js"></script>
+</body>
+</html>
